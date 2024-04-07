@@ -1,4 +1,4 @@
-# Python App Development Tools
+# Set of App Development Tools
 
 This project provides a set of tools useful for app development written in Python. It currently includes two tools:
 
