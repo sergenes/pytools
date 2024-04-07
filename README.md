@@ -12,6 +12,7 @@ The QR Code Generator creates QR codes that link to apps on the Apple App Store 
 ### Usage
 
 ```python
+# /usr/local/bin/python3.11 qr_code.py
 if __name__ == '__main__':
     # Define the input string and the file names
     app_name = "voice_bridge"
